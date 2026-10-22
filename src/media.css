@@ -1,0 +1,27 @@
+.dropzone video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .24;
+}
+
+.card-front video {
+  width: 100%;
+  height: 134px;
+  object-fit: cover;
+  display: block;
+  filter: saturate(.75);
+}
+
+.report-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.download-report {
+  text-decoration: none;
+}
