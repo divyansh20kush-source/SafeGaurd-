@@ -19,6 +19,8 @@ Premium local-first image and video integrity scanner. Media and reports stay on
    npm install
    npm run dev
    ```
+4. Ai Model:
+         Local ai model Downlaodable link : https://drive.google.com/file/d/1Emq1czSpqgTPoIgOyPwm60Eel2tFh43k/view?usp=drive_link   
 
 Open `http://localhost:5173`.
 
